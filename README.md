@@ -1,4 +1,5 @@
-Introduction
+Introduction 
+(Please download the whole ZIP to see the result (html file))
 In-depth analysis of a portfolio strategy that combines two prominent Exchange Traded Funds (ETFs): the Vanguard High Dividend Yield ETF (VYM) and the Vanguard Growth ETF (VUG). The strategy allocates 50% of the portfolio to each ETF, with the goal of achieving a balance between growth and income. This post compares the performance of this strategy against the S&P 500, tracked by the SPDR S&P 500 ETF Trust (SPY), from 2015 to 2025.
 
 Portfolio Composition
