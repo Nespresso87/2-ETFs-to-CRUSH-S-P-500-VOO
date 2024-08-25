@@ -1,1 +1,0 @@
-# 2-ETFs-to-CRUSH-S-P-500-VOO
